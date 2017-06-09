@@ -7,6 +7,3 @@ gunzip Plugin_mod-9.1.2-1.1.0.tar.gz
 tar -xvf Plugin_mod-9.1.2-1.1.0.tar
 
 mv ~/mod /var/www/html/glpi/plugins/
-
-
-
