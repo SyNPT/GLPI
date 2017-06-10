@@ -6,4 +6,4 @@ wget https://sourceforge.net/projects/helpdeskrating/files/Helpdeskrating%201.1.
 
 unzip helpdeskrating_1.1.1.zip
 
-mv ~/helpdeskrating_1.1.1.zip /var/www/html/glpi
+mv ~/helpdeskrating /var/www/html/glpi
